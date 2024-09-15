@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* ページ全体のスタイル
+------------------------------------------ */
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  line-height: 1.75;
+  color: #333;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+li {
+  list-style: none;
+}
+
+header.header {
+  height: 7rem;
+  padding-left: 1.6rem;
+}/*# sourceMappingURL=main.css.map */
